@@ -7,7 +7,7 @@ Modifikasi estetis dari aplikasi klasik `glxgears`, dirancang khusus untuk mempe
 ## 📸 Preview
 
 ![Tampilan glxgears Pastel Sky 1](Screenshot_20260531_215141.png)
-![Tampilan glxgears Pastel Sky 2](Screenshot_20260531_213822.png)
+![Tampilan glxgears Pastel Sky 2](Screenshot_20260531_222110.png)
 
 ---
 
